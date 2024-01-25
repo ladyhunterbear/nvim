@@ -1,0 +1,2 @@
+require("jharper")
+print("hello")
